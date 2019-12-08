@@ -1,0 +1,11 @@
+{
+  "name": "@revive/router",
+  "version": "0.1.0",
+  "dependencies": {
+    "history": "^4.10.1",
+    "@types/history": "^4.7.3",
+    "react": "^16.12.0",
+    "@types/react": "^16.9.15",
+    "typescript": "^3.7.3"
+  }
+}
